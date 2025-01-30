@@ -4,9 +4,9 @@ Ce projet est orienté vers la communication et la présentation de mes travaux 
 
 Nous exposé à deux contextes assez différents de restitution de résultats : 
 
- - **Construire un dashboard à destination de notre client** pour l’aider à la prise de décision sur la base de vos analyses et modélisations. Vous allez apprendre à développer et déployer dans le cloud un Dashboard en utilisant des librairies en Python comme Streamlit ou Flask, tout en continuant de consolider nos acquis sur l’utilisation des APIs pour exposer vos résultats à des utilisateurs externes.
+   - **Construire un dashboard à destination de notre client** pour l’aider à la prise de décision sur la base de vos analyses et modélisations. Vous allez apprendre à développer et déployer dans le cloud un Dashboard en utilisant des librairies en Python comme Streamlit ou Flask, tout en continuant de consolider nos acquis sur l’utilisation des APIs pour exposer vos résultats à des utilisateurs externes.
 
- - **Réaliser une veille sur les outils et tendances en Data Science et IA** afin de démontrer leur capacité, nous permettant de rester à jour avec les évolutions du domaine. 
+   - **Réaliser une veille sur les outils et tendances en Data Science et IA** afin de démontrer leur capacité, nous permettant de rester à jour avec les évolutions du domaine. 
   
 
 Pourquoi ces compétences sont-elles importantes pour notre carrière ?
@@ -15,3 +15,13 @@ Même si un Data Scientist n’a pas vocation à construire et maintenir fréque
 
 
 En ce qui concerne le POC d’une nouvelle technologie, cette compétence est indispensable. La veille technique nous maintient à jour avec les dernières avancées et outils, une compétence clé dans un domaine en évolution rapide comme la data science. Ces compétences sont précieuses pour les Data Scientists dans tous les secteurs, car elles renforcent la capacité à informer les décisions stratégiques et à mettre en valeur l'impact de leur travail.
+
+**Objectifs :**
+
+  - Réaliser la présentation orale d’une démarche de modélisation à un client interne/externe
+    
+  - Réaliser une veille sur les outils et tendances en data science et IA
+    
+  - Réaliser un tableau de bord afin de présenter son travail de modélisation à un public
+    
+  - Rédiger une note méthodologique afin de communiquer sa démarche de modélisation
