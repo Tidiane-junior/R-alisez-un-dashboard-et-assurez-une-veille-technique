@@ -1,12 +1,10 @@
-# Realisez-un-dashboard-et-assurez-une-veille-technique
+# Realisez un dashboard et assurez une veille technique
 
-Ce projet est orienté vers la communication et la présentation de vos travaux en Data Science.
-
- 
+Ce projet est orienté vers la communication et la présentation de mes travaux en Data Science.
 
 Nous exposé à deux contextes assez différents de restitution de résultats : 
 
- - **Construire un dashboard à destination de notre client** pour l’aider à la prise de décision sur la base de vos analyses et modélisations. Vous allez apprendre à développer et déployer dans le cloud un Dashboard en utilisant des librairies en Python comme Streamlit ou Flask, tout en continuant de consolider vos acquis sur l’utilisation des APIs pour exposer vos résultats à des utilisateurs externes.
+ - **Construire un dashboard à destination de notre client** pour l’aider à la prise de décision sur la base de vos analyses et modélisations. Vous allez apprendre à développer et déployer dans le cloud un Dashboard en utilisant des librairies en Python comme Streamlit ou Flask, tout en continuant de consolider nos acquis sur l’utilisation des APIs pour exposer vos résultats à des utilisateurs externes.
 
  - **Réaliser une veille sur les outils et tendances en Data Science et IA** afin de démontrer leur capacité, nous permettant de rester à jour avec les évolutions du domaine. 
   
